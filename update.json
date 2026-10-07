@@ -1,0 +1,6 @@
+{
+  "version": "V0.3.35",
+  "url": "https://gitee.com/the-time-of-youthful-green/naoke-random-prompts/releases/download/%E8%84%91%E5%A3%B3ComfyUI-AI%E9%9A%8F%E6%9C%BA%E6%8F%90%E7%A4%BA%E8%AF%8DV0.3.35/%E8%84%91%E5%A3%B3ComfyUI-AI%E9%9A%8F%E6%9C%BA%E6%8F%90%E7%A4%BA%E8%AF%8D_Setup_V0.3.35.exe",
+  "sha256": "28F5D1E0DFA42DA3EADD8F305EC95D4093CA842BE7C5C3B350DAAE6CBBEF4410",
+  "notes": "V0.3.35 修复：排除沙箱/临时运行环境，避免二次启动主窗口异常；启动器与主程序同步加固。"
+}
